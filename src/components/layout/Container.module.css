@@ -1,5 +1,5 @@
 .container {
-  width: 450px;
+  width: 1200px;
   display: flex;
   justify-content: space-between;
   margin: 0 auto;
@@ -17,4 +17,18 @@
 
 .min-height {
   min-height: 75%;
+}
+
+
+@media(max-width: 1200px){
+  .container{
+    width: 800px;
+  }
+}
+
+@media(max-width: 800px){
+  .container{
+    width: 500px;
+    justify-content: center;
+  }
 }

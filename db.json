@@ -1,9 +1,9 @@
 {
   "projects": [
     {
-      "id": "1042",
-      "budget": "11",
+      "id": "c705",
       "name": "Analista de informática",
+      "budget": "30000",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
@@ -12,52 +12,20 @@
       "services": []
     },
     {
-      "id": "c3c1",
+      "id": "d905",
+      "name": "Pacote office ",
+      "budget": "100",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
       "cost": 0,
       "services": []
     },
     {
-      "id": "91a4",
+      "id": "3798",
       "name": "teste",
-      "budget": "5000",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "902d",
-      "name": "Pacote office ",
-      "budget": "50000",
-      "category": {
-        "id": "5",
-        "name": "Gerenciamento"
-      },
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "0881",
-      "name": "Pacote office ",
-      "budget": "5000",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "9dcf",
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "9029",
-      "name": "Meu projeto 3",
-      "budget": "15000",
+      "budget": "35555",
       "category": {
         "id": "3",
         "name": "Design"
@@ -66,12 +34,12 @@
       "services": []
     },
     {
-      "id": "f669",
-      "name": "Larissa Emily",
-      "budget": "45",
+      "id": "4e62",
+      "name": "Layout",
+      "budget": "80000",
       "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
+        "id": "3",
+        "name": "Design"
       },
       "cost": 0,
       "services": []
