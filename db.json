@@ -1,9 +1,9 @@
 {
   "projects": [
     {
-      "id": "c705",
+      "id": "1731",
       "name": "Analista de informática",
-      "budget": "30000",
+      "budget": "50000",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
@@ -12,34 +12,12 @@
       "services": []
     },
     {
-      "id": "d905",
+      "id": "3b3a",
       "name": "Pacote office ",
-      "budget": "100",
+      "budget": "1000",
       "category": {
-        "id": "4",
-        "name": "Planejamento"
-      },
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "3798",
-      "name": "teste",
-      "budget": "35555",
-      "category": {
-        "id": "3",
-        "name": "Design"
-      },
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "4e62",
-      "name": "Layout",
-      "budget": "80000",
-      "category": {
-        "id": "3",
-        "name": "Design"
+        "id": "5",
+        "name": "Gerenciamento"
       },
       "cost": 0,
       "services": []
